@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
 
-- 🌱 I’m currently learning **Data science and Machine Learning**
+- 🌱 I’m currently learning **Data science and AI**
 
 - 📫 How to reach me **ganesh.xvi@gmail.com**
 
