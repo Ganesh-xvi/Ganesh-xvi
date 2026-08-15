@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working as an **AI Developer**
-- 🌱 Learning **Instruction Tuning, RL, RLHF**
+- 🌱 Learning **JS, REACT**
 - 💡 Interests: **NLP, LLM Fine-Tuning, RAG, GraphRAG, AI Agents**
 - 📫 Reach me: **ganesh.xvi@gmail.com**
 
