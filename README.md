@@ -18,7 +18,7 @@
 ### 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ganesh-xvi/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ganeshkumara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://ganesh-xvi.github.io/Portfolio/" target="blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/globe.svg" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 ---
@@ -38,8 +38,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh-xvi&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-xvi&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-xvi&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-xvi&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-xvi&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-xvi&theme=tokyonight&row=1&column=6" alt="trophy" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ganesh-xvi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <p align="center">
