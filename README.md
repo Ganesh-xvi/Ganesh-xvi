@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kumar</h1>
 <h3 align="center">AI Developer | Data Scientist | Building with LLMs, RAG & GraphRAG</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Science+%2B+AI;LLM+Fine-Tuning+%26+RAG;GraphRAG+%2B+AI+Agents;Always+learning+something+new" alt="Typing SVG" />
 </p>
@@ -35,20 +34,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-xvi&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-xvi&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Ganesh-xvi&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-xvi&theme=tokyonight&row=1&column=6&margin-w=8" alt="trophy" />
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ganesh-xvi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
