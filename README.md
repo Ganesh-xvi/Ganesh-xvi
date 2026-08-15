@@ -17,7 +17,7 @@
 ### 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ganesh-xvi/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://ganesh-xvi.github.io/Portfolio/" target="blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/globe.svg" alt="portfolio" height="30" width="30" /></a>
+<a href="https://ganesh-xvi.github.io/Portfolio/" target="blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 ---
