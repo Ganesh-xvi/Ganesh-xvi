@@ -38,28 +38,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-xvi&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-xvi&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-xvi&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-xvi&theme=tokyonight" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Ganesh-xvi&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-xvi&theme=tokyonight&row=1&column=6" alt="trophy" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ganesh-xvi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-xvi&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ganesh-xvi&theme=tokyonight&row=1" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-xvi&theme=tokyonight&row=1&column=6&margin-w=8" alt="trophy" />
 </p>
 
 <p align="center">
