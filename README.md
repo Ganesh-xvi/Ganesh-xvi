@@ -1,30 +1,55 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kumar</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">AI Developer | Data Scientist | Building with LLMs, RAG & GraphRAG</h3>
 
-
-
-<img align="right" alt="Coding" width="400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
-
-- 🌱 I’m currently learning **Data science and AI**
-
-- 📫 How to reach me **ganesh.xvi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-xvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganesh-xvi/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ganeshkumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ganeshkumara" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Science+%2B+AI;LLM+Fine-Tuning+%26+RAG;GraphRAG+%2B+AI+Agents;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-xvi&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-xvi" /> </p>
+### 🚀 About Me
+- 🔭 Currently working as an **AI Developer**
+- 🌱 Learning **Instruction Tuning, RL, RLHF**
+- 💡 Interests: **NLP, LLM Fine-Tuning, RAG, GraphRAG, AI Agents**
+- 📫 Reach me: **ganesh.xvi@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh-xvi" alt="ganesh-xvi" /></a> </p>
+---
 
+### 🔗 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/ganesh-xvi/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ganeshkumara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-xvi&show_icons=true&locale=en&layout=compact" alt="ganesh-xvi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh-xvi&show_icons=true&locale=en" alt="ganesh-xvi" /></p>
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-xvi&" alt="ganesh-xvi" /></p>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ganesh-xvi&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-xvi&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-xvi&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ganesh-xvi&theme=tokyonight&row=1" alt="trophy" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ganesh-xvi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
